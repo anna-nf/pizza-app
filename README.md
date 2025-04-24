@@ -49,19 +49,6 @@ Node.js ist wie der Motor, der deine App startet – und npm ist das Werkzeug da
    (steht für "Long Term Support")
 3. Öffne die heruntergeladene Datei und folge den Installations-Schritten
 
-🧪 **Test (optional):**
-Nach der Installation kannst du im Terminal checken, ob alles klappt:
-
-```bash
-node -v
-```
-
-und
-
-```bash
-npm -v
-```
-
 Wenn da eine Versionsnummer erscheint (z. B. v18.17.1), dann ist alles bereit! 🚀
 
 ### 🟡 Schritt 4: Projekt öffnen in VS Code
