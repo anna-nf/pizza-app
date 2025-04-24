@@ -30,12 +30,41 @@ Damit du mit dem Code arbeiten kannst, brauchst du ein Programm – wie ein digi
 2. Klicke auf Download
 3. Öffne und installiere das Programm
 
-💡 **Hinweis:** VS Code ist kostenlos und legal
+💡 **Hinweis:** VS Code ist kostenlos und legal - es ist ein offizielles Open-Source-Tool von Microsoft und wird von fast allen Frontend-Entwicklern weltweit genutzt.
 
 🧁 **Extra-Tipp:**
 Du kannst auch dein Lieblings-Theme einstellen – bunt, dunkel oder hell 😎
 
-### 🟡 Schritt 3: Projekt öffnen in VS Code
+### 🟠 Schritt 3: Node.js installieren
+
+**Ziel:** Damit deine App funktioniert, brauchst du einen Helfer auf dem Rechner: Node.js
+
+Node.js ist wie der Motor, der deine App startet – und npm ist das Werkzeug dazu.
+
+**Anleitung:**
+
+1. Gehe auf https://nodejs.org
+2. Klicke auf den großen grünen Button:
+   👉 LTS-Version herunterladen (empfohlen)
+   (steht für "Long Term Support")
+3. Öffne die heruntergeladene Datei und folge den Installations-Schritten
+
+🧪 **Test (optional):**
+Nach der Installation kannst du im Terminal checken, ob alles klappt:
+
+```bash
+node -v
+```
+
+und
+
+```bash
+npm -v
+```
+
+Wenn da eine Versionsnummer erscheint (z. B. v18.17.1), dann ist alles bereit! 🚀
+
+### 🟡 Schritt 4: Projekt öffnen in VS Code
 
 **Ziel:** Das heruntergeladene Projekt starten
 
@@ -45,7 +74,7 @@ Du kannst auch dein Lieblings-Theme einstellen – bunt, dunkel oder hell 😎
 2. Klicke auf Datei → Ordner öffnen
 3. Wähle den entpackten Pizza-App-Ordner aus
 
-### 🟣 Schritt 4: Terminal & npm
+### 🟣 Schritt 5: Terminal & npm
 
 **Ziel:** App starten und npm verstehen
 
@@ -54,6 +83,7 @@ npm ist wie ein Lieferdienst für Extras, die dein Projekt braucht – z. B. Wer
 **Anleitung:**
 
 1. Öffne das Terminal in VS Code (oben: „Terminal → Neues Terminal")
+   ![VS Code New Terminal](vscode-new-terminal.png)
 2. Gib ein: `npm install` → drücke Enter (📦 Damit werden alle Bausteine installiert)
 3. Dann: `npm run dev` → drücke Enter
 4. Jetzt öffnet sich deine App im Browser! 🚀
