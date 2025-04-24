@@ -11,7 +11,7 @@ Los geht's: Hol dir erstmal den Code von GitHub.
 
 1. Scrolle nach Oben
 2. Klicke auf den grünen Button „Code"
-   ![GitHub Code Button](images/github-code-button.png)
+   ![GitHub Code Button](github-code-button.png)
 3. Wähle „Download ZIP"
 4. Entpacke die ZIP-Datei (rechte Maustaste → Entpacken)
 
