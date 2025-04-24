@@ -73,7 +73,9 @@ npm ist wie ein Lieferdienst für Extras, die dein Projekt braucht – z. B. Wer
    ![VS Code New Terminal](vscode-new-terminal.png)
 2. Gib ein: `npm install` → drücke Enter (📦 Damit werden alle Bausteine installiert)
 3. Dann: `npm run dev` → drücke Enter
-4. Jetzt öffnet sich deine App im Browser! 🚀
+4. Im Terminal erscheint ein Link (beginnt mit http://localhost) - klicke darauf, um deine App im Browser zu öffnen!
+   ![VS Code Terminal mit localhost Link](vscode-menu-terminal-home.png)
+5. Jetzt öffnet sich deine App im Browser! 🚀
 
 ## 💬 Glossar
 
