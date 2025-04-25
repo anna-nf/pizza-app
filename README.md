@@ -188,6 +188,7 @@ Das ist wie ein KI-Assistent direkt in deinem Code-Editor!
 3. Melde dich mit deinem GitHub-Account an
 
 **Was kann Copilot?**
+![GitHub Copilot in VS Code](vscode-copilot.png)
 
 - Code-Vorschläge während du tippst
 - Ganze Funktionen automatisch ergänzen
