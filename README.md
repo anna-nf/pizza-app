@@ -124,7 +124,11 @@ Beim Girls Day 2025 haben wir zusammen gelernt, wie man Code verändert. Hier is
    - Ersetze diese Zeile mit:
 
    ```html
-   <v-img src="/images/pizza-pepperoni.jpg" height="200"></v-img>
+   <v-img
+     src="src/assets/images/pizza-pepperoni.png"
+     height="200"
+     cover
+   ></v-img>
    <v-card-title>Pizza Pepperoni</v-card-title>
    <v-card-text>Leckere Pizza mit Tomatensoße, Käse und Pepperoni</v-card-text>
    ```
