@@ -140,11 +140,20 @@ Beim Girls Day 2025 haben wir zusammen gelernt, wie man Code verändert. Hier is
    - Auf Windows: Halte `STRG` gedrückt und drücke `S`
    - Deine Änderungen werden sofort im Browser angezeigt! ✨
 
+### 🎨 Über die verwendete Technologie
+
+Diese Pizza-App nutzt **Vuetify** - eine Bibliothek von fertigen Bauteilen für hübsche Apps. Alle Komponenten, die mit `v-` beginnen (wie `v-card`, `v-btn`) kommen aus Vuetify.
+
+Vuetify ist - wie alles in diesem Projekt - Open Source. Das bedeutet, dass der Code öffentlich ist und von jedem kostenlos genutzt werden kann. So lernen Programmierer:innen voneinander und können gemeinsam bessere Software bauen!
+
 ## 💬 Glossar
 
-| Begriff  | Erklärung                                      |
-| -------- | ---------------------------------------------- |
-| GitHub   | Website, auf der man Code teilt                |
-| VS Code  | Ein Programm, in dem man Code schreibt         |
-| npm      | Ein Tool, das Dinge für deine App herunterlädt |
-| Terminal | Fenster, in das du Befehle eintippst           |
+| Begriff     | Erklärung                                                         | Website                                   |
+| ----------- | ----------------------------------------------------------------- | ----------------------------------------- |
+| GitHub      | Website, auf der man Code teilt                                   | https://github.com                        |
+| VS Code     | Ein Programm, in dem man Code schreibt                            | https://code.visualstudio.com             |
+| npm         | Ein Tool, das Dinge für deine App herunterlädt                    | https://www.npmjs.com                     |
+| Terminal    | Fenster, in das du Befehle eintippst                              | -                                         |
+| Vue         | JavaScript-Framework zum Erstellen von modernen Websites und Apps | https://vuejs.org                         |
+| Vuetify     | Sammlung fertiger Bauteile für schöne Apps (z.B. Buttons, Karten) | https://vuetifyjs.com                     |
+| Open Source | Software, deren Quellcode öffentlich und kostenlos nutzbar ist    | https://de.wikipedia.org/wiki/Open_Source |
