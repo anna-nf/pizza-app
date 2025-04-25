@@ -208,3 +208,23 @@ Das ist wie ein KI-Assistent direkt in deinem Code-Editor!
 | Vuetify        | Sammlung fertiger Bauteile für schöne Apps (z.B. Buttons, Karten) | https://vuetifyjs.com                                             |
 | Open Source    | Software, deren Quellcode öffentlich und kostenlos nutzbar ist    | https://opensource.org, https://de.wikipedia.org/wiki/Open_Source |
 | GitHub Copilot | KI-Assistent für Programmierer direkt im Code-Editor              | https://github.com/features/copilot                               |
+| Netlify        | Kostenloser Service, um deine App im Internet zu veröffentlichen  | https://netlify.com                                               |
+
+## 🚀 Deine App veröffentlichen
+
+Wenn du mit deiner Pizza-App fertig bist, kannst du sie auf Netlify veröffentlichen - kostenlos und einfach!
+
+### Mit KI bei der Veröffentlichung helfen lassen
+
+Du kannst ChatGPT oder Gemini fragen:
+
+Die KI wird dir dann eine detaillierte Anleitung geben, mit der du:
+
+1. Zuerst verstehst, wie Git-Versionskontrolle funktioniert (Commits speichern Änderungen, Push lädt sie auf GitHub)
+2. Dein Projekt auf GitHub speicherst (ein wichtiger Schritt!)
+3. Anschließend Netlify mit deinem GitHub-Repository verbindest
+4. Deine App automatisch veröffentlichst
+
+💡 **Tipp:** Suche auch nach YouTube-Tutorials wie "GitHub für Anfänger" oder "Wie man eine Website auf Netlify veröffentlicht" - visuelle Anleitungen helfen oft beim Verständnis dieser Schritte!
+
+So können Freunde und Familie deine Pizza-App über eine echte Website besuchen!
