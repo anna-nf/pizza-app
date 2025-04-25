@@ -103,6 +103,39 @@ Unsere App besteht aus zwei Hauptteilen:
    - Das sind die verschiedenen Bildschirme in deiner App
    - Zum Beispiel: AboutView, HomeView
 
+## 🔧 So kannst du den Code bearbeiten
+
+Beim Girls Day 2025 haben wir zusammen gelernt, wie man Code verändert. Hier ist ein Beispiel:
+
+### 🏠 HomeView anpassen
+
+1. **Öffne die Datei:**
+
+   - Schau auf die linke Seite in VS Code - dort findest du das Explorer-Menü
+   - Falls du es nicht siehst, klicke auf das Dateisymbol ganz oben links
+   - Suche nach dem Ordner `src` und klicke auf den kleinen Pfeil davor, um ihn zu öffnen
+   - Wenn Ordner wie `components`, `views` oder `assets` zugeklappt sind, klicke auf den Pfeil daneben, um sie aufzuklappen
+   - Öffne den Ordner `views` und suche die Datei `HomeView.vue`
+   - Klicke sie doppelt an, um sie zu öffnen
+
+2. **Die Pizza-Karten verbessern:**
+
+   - Suche im Code nach der Zeile: `Hier brauchen wir: v-img, v-card-title und v-card-text`
+   - Ersetze diese Zeile mit:
+
+   ```html
+   <v-img src="/images/pizza-pepperoni.jpg" height="200"></v-img>
+   <v-card-title>Pizza Pepperoni</v-card-title>
+   <v-card-text>Leckere Pizza mit Tomatensoße, Käse und Pepperoni</v-card-text>
+   ```
+
+   - Mache das Gleiche für die zweite Karte (mit einem anderen Bild und Text)
+
+3. **Änderungen speichern:**
+   - Auf Mac: Halte `CMD` gedrückt und drücke `S`
+   - Auf Windows: Halte `STRG` gedrückt und drücke `S`
+   - Deine Änderungen werden sofort im Browser angezeigt! ✨
+
 ## 💬 Glossar
 
 | Begriff  | Erklärung                                      |
