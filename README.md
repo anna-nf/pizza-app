@@ -77,6 +77,32 @@ npm ist wie ein Lieferdienst für Extras, die dein Projekt braucht – z. B. Wer
    ![VS Code Terminal mit localhost Link](vscode-menu-terminal-home.png)
 5. Jetzt öffnet sich deine App im Browser! 🚀
 
+## 🎨 Deine eigene Pizza-App gestalten
+
+**Super!** Deine App läuft jetzt auf deinem Computer - nur für dich sichtbar. Das nennt man "lokal" entwickeln.
+
+### Was kannst du jetzt machen?
+
+#### 📸 Eigene Bilder hinzufügen
+
+1. Im Ordner `images` findest du alle Bilder der App
+2. Du kannst hier eigene Fotos hinzufügen:
+   - Füge einfach deine Bilder in diesen Ordner (einfach per Drag & Drop)
+   - In VS Code siehst du dann deine neuen Bilder erscheinen!
+
+#### 👩‍💻 Die App verändern
+
+Unsere App besteht aus zwei Hauptteilen:
+
+1. **Components** (Bausteine):
+
+   - Dies sind wie Lego-Steine, aus denen deine App gebaut ist
+   - Zum Beispiel: FooterBar, NavigationBar
+
+2. **Views** (Seiten):
+   - Das sind die verschiedenen Bildschirme in deiner App
+   - Zum Beispiel: AboutView, HomeView
+
 ## 💬 Glossar
 
 | Begriff  | Erklärung                                      |
