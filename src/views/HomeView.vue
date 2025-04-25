@@ -5,15 +5,8 @@
         <v-col cols="12" md="6">
           <v-card>
             <v-card-text class="text-green-darken-2">
-              <v-img
-                src="src/assets/images/pizza-pepperoni.png"
-                height="200"
-                cover
-              ></v-img>
-              <v-card-title>Pizza Pepperoni</v-card-title>
-              <v-card-text
-                >Leckere Pizza mit Tomatensoße, Käse und Pepperoni</v-card-text
-              ></v-card-text
+              Hier brauchen wir: v-img, v-card-title und v-card-text</v-card-text
+              </v-card-text
             >
             <v-card-actions>
               <v-btn

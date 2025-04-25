@@ -169,8 +169,8 @@ Erstelle 4 Karten mit einem Image, Beschreibung und Text. Die Bilder für die Ka
 Nutze diese Pizza-Images: pizza-hawaii.png, pizza-fungi.png, pizza-mozzarella.png, pizza-vegan.png
 ```
 
-Und so könnte das Ergebnis aussehen:
-![ChatGPT Ergebnis](chatGPT-ergebnis.png)
+Und so könnte die Antwort aussehen:
+![ChatGPT Antwort](chatGPT-antwort.png)
 
 **Ausprobieren:**
 
