@@ -146,14 +146,64 @@ Diese Pizza-App nutzt **Vuetify** - eine Bibliothek von fertigen Bauteilen für 
 
 Vuetify ist - wie alles in diesem Projekt - Open Source. Das bedeutet, dass der Code öffentlich ist und von jedem kostenlos genutzt werden kann. So lernen Programmierer:innen voneinander und können gemeinsam bessere Software bauen!
 
+## 🤖 Mit KI programmieren lernen
+
+### KI-Helfer für Programmierer:innen
+
+Wusstest du, dass moderne Künstliche Intelligenzen beim Programmieren helfen können? Hier sind einige coole Tools:
+
+#### ChatGPT & Gemini
+
+Diese KI-Chatbots können dir Programmier-Fragen beantworten und sogar Code-Beispiele schreiben! Du kannst sie einfach fragen:
+
+- "Wie erstelle ich eine Karte mit Vuetify?"
+- "Erkläre mir, wie CSS funktioniert"
+- "Schreibe einen Code für eine Bildergalerie"
+
+**Praktischer Tipp:**
+Du kannst Code aus VS Code kopieren und als Prompt in ChatGPT oder Gemini einfügen! Zum Beispiel:
+![ChatGPT Prompt](chatGPT-prompt.png)
+
+```
+Erstelle 4 Karten mit einem Image, Beschreibung und Text. Die Bilder für die Karten befinden sich in assets/images/pizza-
+Nutze diese Pizza-Images: pizza-hawaii.png, pizza-fungi.png, pizza-mozzarella.png, pizza-vegan.png
+```
+
+Und so könnte das Ergebnis aussehen:
+![ChatGPT Ergebnis](chatGPT-ergebnis.png)
+
+**Ausprobieren:**
+
+- ChatGPT: https://chat.openai.com
+- Google Gemini: https://gemini.google.com
+
+#### GitHub Copilot in VS Code
+
+Das ist wie ein KI-Assistent direkt in deinem Code-Editor!
+
+**So bekommst du Copilot:**
+
+1. Du brauchst einen GitHub-Account (kostenlos erstellen auf github.com)
+2. Klicke auf das Copiloten-Sympol oben rechts
+3. Melde dich mit deinem GitHub-Account an
+
+**Was kann Copilot?**
+
+- Code-Vorschläge während du tippst
+- Ganze Funktionen automatisch ergänzen
+- Erklärungen zu Code geben
+
+💡 **Tipp:** KI ist super zum Lernen und für Ideen, aber es ist wichtig zu verstehen, was der Code macht! Die besten Programmierer:innen nutzen KI als Helfer, nicht als Ersatz für eigenes Wissen.
+
 ## 💬 Glossar
 
-| Begriff     | Erklärung                                                         | Website                                   |
-| ----------- | ----------------------------------------------------------------- | ----------------------------------------- |
-| GitHub      | Website, auf der man Code teilt                                   | https://github.com                        |
-| VS Code     | Ein Programm, in dem man Code schreibt                            | https://code.visualstudio.com             |
-| npm         | Ein Tool, das Dinge für deine App herunterlädt                    | https://www.npmjs.com                     |
-| Terminal    | Fenster, in das du Befehle eintippst                              | -                                         |
-| Vue         | JavaScript-Framework zum Erstellen von modernen Websites und Apps | https://vuejs.org                         |
-| Vuetify     | Sammlung fertiger Bauteile für schöne Apps (z.B. Buttons, Karten) | https://vuetifyjs.com                     |
-| Open Source | Software, deren Quellcode öffentlich und kostenlos nutzbar ist    | https://de.wikipedia.org/wiki/Open_Source |
+| Begriff        | Erklärung                                                         | Website                                                           |
+| -------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
+| GitHub         | Website, auf der man Code teilt                                   | https://github.com                                                |
+| VS Code        | Ein Programm, in dem man Code schreibt                            | https://code.visualstudio.com                                     |
+| npm            | Ein Tool, das Dinge für deine App herunterlädt                    | https://www.npmjs.com                                             |
+| Terminal       | Fenster, in das du Befehle eintippst                              | -                                                                 |
+| Vue            | JavaScript-Framework zum Erstellen von modernen Websites und Apps | https://vuejs.org                                                 |
+| Vuetify        | Sammlung fertiger Bauteile für schöne Apps (z.B. Buttons, Karten) | https://vuetifyjs.com                                             |
+| Open Source    | Software, deren Quellcode öffentlich und kostenlos nutzbar ist    | https://opensource.org, https://de.wikipedia.org/wiki/Open_Source |
+| GitHub Copilot | KI-Assistent für Programmierer direkt im Code-Editor              | https://github.com/features/copilot                               |
